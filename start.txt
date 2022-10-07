@@ -1,4 +1,4 @@
 Test Git Quick Start demo
 nova vrstica
-se ena vrstica
-spremenim
+se ena vrs
+sprem
