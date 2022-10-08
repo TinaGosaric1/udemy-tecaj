@@ -1,4 +1,4 @@
-Nekaj
+Delam merge conflict.
 Spreminjam datoteko prvič
 Spreminjam datoteko drugič
 Spreminjam datoteko tretjič
