@@ -3,5 +3,3 @@ Spreminjam datoteko prvič
 Spreminjam datoteko drugič
 najnovejša
 kj
-
-ll
