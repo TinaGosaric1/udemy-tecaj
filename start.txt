@@ -1,4 +1,4 @@
-Resolving merge conflict.
+Making changes.
 Spreminjam datoteko prvič
 Spreminjam datoteko drugič
 Spreminjam datoteko tretjič
