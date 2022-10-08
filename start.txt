@@ -1,2 +1,4 @@
 Nekaj
 Spreminjam datoteko prvič
+Spreminjam datoteko drugič
+Spreminjam datoteko tretjič
